@@ -1,4 +1,4 @@
 # Add patterns to ignore here.
 .DS_Store
 articles/yyyymmdd-x.md
-assets/yyyymmdd-x-y.png
+assets/yyyymmdd_x/yyyymmdd-x-y.png
